@@ -1,0 +1,39 @@
+.wpml-checkbox-label{
+    display:inline-block !important;
+}
+
+.wpml-input{
+    margin-top: 10px;
+}
+
+.wpml-checkbox{
+    margin-top: 10px !important;
+}
+
+.wpml-submit{
+    background-color:#0A246A;
+    color: #fff;
+    border:0;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.wpml-red-text{
+    color:red;
+}
+
+#wp-notification_content-wrap{
+    width:800px;
+}
+
+.wpml-regular-cursor{
+    cursor:text;
+}
+
+.wpml-margin-bottom{
+    margin-bottom: 10px;
+}
+
+.wpml-shortcode-wrap .wpml-login-email{
+    width:100%;
+}
