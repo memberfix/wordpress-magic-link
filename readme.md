@@ -1,25 +1,6 @@
 <div id="top"></div>
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://thehusky.dev">
-    <img src="https://thehusky.dev/wp-content/uploads/2022/07/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">WP Plugin Library</h3>
-
-  <p align="center">
-    The swiss knife of building WordPress plugins
-    <br />
-    <a href="https://docs.thehusky.dev/wordpress-library"><strong>Explore the docs »</strong></a>
-  </p>
-</div>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -135,16 +116,6 @@ Distributed under the MIT License.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Sorin Marta ([TheHuskyDev](https://thehusky.dev))
-
-Project Link: [https://thehusky.dev/projects/wordpress-library](https://thehusky.dev/projects/wordpress-library)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
